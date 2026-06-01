@@ -5,7 +5,7 @@ export default function CopyEmailButton() {
   const [copied, setCopied] = useState(false)
 
   function handleCopy() {
-    navigator.clipboard.writeText("erona@gjirafa.com")
+    navigator.clipboard.writeText("eronegashi00@gmail.com")
     setCopied(true)
     setTimeout(() => setCopied(false), 2000)
   }

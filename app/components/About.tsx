@@ -41,10 +41,10 @@ export default function About() {
             </p>
             <div className="flex items-center gap-5">
               <a
-                href="mailto:erona@gjirafa.com"
+                href="mailto:eronegashi00@gmail.com"
                 className="inline-flex items-center gap-2 text-sm text-emerald-400 hover:text-emerald-300 transition-colors group"
               >
-                erona@gjirafa.com
+                eronegashi00@gmail.com
                 <svg
                   className="w-3.5 h-3.5 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform"
                   fill="none"
