@@ -31,13 +31,11 @@ export default function Experience() {
         </div>
 
         <div className="relative">
-          {/* Vertical line */}
           <div className="absolute left-0 top-2 bottom-2 w-px bg-gradient-to-b from-emerald-500/40 via-emerald-500/10 to-transparent" />
 
           <div className="space-y-12 pl-8">
             {experience.map((job, i) => (
               <div key={i} className="relative group">
-                {/* Timeline dot */}
                 <div
                   className={`absolute -left-8 top-1.5 w-2.5 h-2.5 rounded-full border-2 transition-colors duration-300 ${
                     job.current
