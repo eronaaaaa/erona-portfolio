@@ -1,7 +1,7 @@
 const skills = [
   {
     category: "Frontend",
-    items: ["React", "Next.js", "TypeScript", "Tailwind CSS", "HTML / CSS"],
+    items: ["React", "React Native", "Vue", "Next.js", "TypeScript", "Tailwind CSS", "HTML / CSS"],
   },
   {
     category: "Backend",
@@ -9,7 +9,7 @@ const skills = [
   },
   {
     category: "Tools",
-    items: ["Git", "GitHub", "Figma", "VS Code", "Vercel"],
+    items: ["Git", "GitHub", "Figma", "VS Code", "Vercel", "Expo", "Prisma"],
   },
 ]
 
